@@ -18,7 +18,7 @@ second_question = "What is your favorite food?"
 second_question_answer = "ANYTHING_SPICY"
 
 third_question = "Who is your favorite fictional character? ex. Mickey Mouse, Bugs Bunny"
-third_question_answer = "YOUR_ANSWER_HERE"
+third_question_answer = "DR_WHO"
 
 """
 !! Reminder that you should be:
